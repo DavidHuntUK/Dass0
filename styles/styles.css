@@ -6,29 +6,19 @@ body { background-color: #302E2E;
 
 }
 
-nav{
-    margin: 5px;
-    }
+h1 { 
+    font-family: 'Orbitron', sans-serif;
+}
 
-ul { 
-list-style-type: none;
-text-align:center ;
-margin: 0;
-padding: 0;
-overflow: hidden;
-background-color: #626262;
+nav {
+
+    font-family:'Orbitron', sans-serif;
 
 }
 
-li { 
-float: center;
-}
-li a {
-display: block;
-color: ivory;
-text-align: inherit;
-padding: 10px 15px;
-text-decoration: none;
+a {
+    text-decoration: none;
+    color: ivory;
 }
 
 
