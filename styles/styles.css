@@ -1,0 +1,35 @@
+
+body { background-color: #302E2E;
+    text-align: center;
+    color: #ffffff;
+    font-size: 11pt;
+
+}
+
+nav{
+    margin: 5px;
+    }
+
+ul { 
+list-style-type: none;
+text-align:center ;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #626262;
+
+}
+
+li { 
+float: center;
+}
+li a {
+display: block;
+color: ivory;
+text-align: inherit;
+padding: 10px 15px;
+text-decoration: none;
+}
+
+
+
