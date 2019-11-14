@@ -41,13 +41,6 @@ a {
     font-family: 'orbitron', sans-serif;
     font-size: 75%;
     }
-    h3 {
-        font-size:3.5rem;
-        font-weight: 400;
-        text-align: center;
-        font-family: 'orbitron', sans-serif;
-        color: #ffffffff;
-    }
     hr {
         margin-top: 1rem;
         margin-bottom: 1rem;
@@ -106,7 +99,7 @@ a {
         font-family: 'orbitron', sans-serif;
         -webkit-text-stroke: 2px black;
     }
-    @media (max-width: 500px){
+ @media (max-width: 500px){
         .gallery-item,
         body {
             max-width: 30%;
@@ -123,5 +116,8 @@ a {
         }
     }
 
-
+ @viewport {
+        width: device-width;
+        zoom: 1.0;
+    }
 
